@@ -18,3 +18,13 @@ body{
   color:##c57d56;
   padding:20px;
 }
+
+nav ul{
+  list-style-type:none;
+  display:flex;
+  justify-content:center
+}
+
+nav ul li{
+  margin:0;
+}
